@@ -1,6 +1,3 @@
-config.json
-requirements.txt
 azure_commands.txt
-readme.md
 .venv
 __pycache__
