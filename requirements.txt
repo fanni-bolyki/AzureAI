@@ -1,0 +1,11 @@
+azure-ai-ml
+azure-ai-projects
+azure-cli
+azure-identity
+azure-search-documents
+azureml-rag
+numpy
+openai
+pinecone-client
+PyPDF2
+requests
